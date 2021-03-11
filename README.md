@@ -1,4 +1,4 @@
-Article: K. Linka, M. Hillgärtner, K. P. Abdolazizi, R. C. Aydin, M. Itskov, & C. J. Cyron. Constitutive artificial neural networks: a fast and general approach to predictive data-driven constitutive modeling by deep learning. (under review)
+Article: K. Linka, M. Hillgärtner, K. P. Abdolazizi, R. C. Aydin, M. Itskov, & C. J. Cyron (2021). Constitutive artificial neural networks: A fast and general approach to predictive data-driven constitutive modeling by deep learning. Journal of Computational Physics, 429, 110010. https://doi.org/10.1016/j.jcp.2020.110010
 
 
 The CANN architecture was developed and tested in the following environment:
